@@ -10,6 +10,9 @@ Example attack scenario: Shell on DMZ webserver, discover hidden HTTP proxy, sca
 
 The Bash version will come at a later date for usage in highly restricted environments where Python may not be installed, or desired for various reasons. 
 
+## Requirements:
+`pip3 install dnspython`
+
 ## Usage
 ### Help
 ```
